@@ -1,3 +1,6 @@
+# Fork Notes:
+	This is a fork of KABA-CCEAC's node-usb-detection repository. Currently, only addition is including examples.
+ 
 # Installation
 
     npm install usb-detection
